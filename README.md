@@ -1,4 +1,4 @@
-# Alcohol-Consumption-Fuzzy-System
+# Alcohol-Consumption-Fuzzy-Logic-System
 
 A simple fuzzy logic system implemented using scikit-fuzzy library in python and matplotlib to visualize membership functions of the input and output variables.
 
